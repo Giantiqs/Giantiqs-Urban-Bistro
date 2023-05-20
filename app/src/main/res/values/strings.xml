@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Urban Bistro</string>
+    <string name="title_activity_main6">MainActivity6</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="greentea">meow</string>
+    <string name="latte">meow</string>
+    <string name="orangesmoothie">meow</string>
+    <string name="orangevanilla">meow</string>
+    <string name="cappcuno">meow</string>
+    <string name="thaitea">meow</string>
+    <string name="tea">meow</string>
+    <string name="bubbletea">meow</string>
+    <string name="matcha">meow</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_fragment">home fragment</string>
+    <string name="button">Button</string>
+    <string name="loading">Loading.....</string>
+    <string name="please_wait_while_the_app_is_loading">Please wait, while the app is loading…</string>
+    <string name="promos">PROMOS</string>
+    <string name="kiddie_meals_amp_drinks"><![CDATA[KIDDIE MEALS & DRINKS]]></string>
+    <string name="beverages">BEVERAGES</string>
+    <string name="mugs">MUGS</string>
+    <string name="hoodie">hoodie</string>
+    <string name="shirt">shirt</string>
+    <string name="about_urban_bistro">Urban Bistro</string>
+    <string name="privacy_policy_and_terms_of_agreement">Privacy Policy and Terms of Agreement</string>
+    <string name="oops_it_seems_like_you_still_have_not_registered_please_register_to_use_all_the_features_of_this_app">Oops! it seems like you still have not registered. Please register to use all the features of this app. If you have an account, go down and press "Login"</string>
+    <string name="username">Username</string>
+    <string name="first_name">First Name</string>
+    <string name="middle_name">Middle Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="password">Password</string>
+    <string name="verify_password">Verify Password</string>
+    <string name="email_address">Email Address</string>
+    <string name="register">Register</string>
+    <string name="phone_number_required">Phone Number (Required)</string>
+    <string name="login">Login</string>
+    <string name="bones">Gimme, gimme, gimme some time to think I\'m in the bathroom, looking at me Face in the mirror is all I need (ooh) Wait until the reaper takes my life Never gonna get me out alive I will live a thousand million lives (ooh) My patience is waning Is this entertaining? Our patience is waning Is this entertaining? I-I-I got this feeling, yeah, you know Where I\'m losing all control \'Cause there\'s magic in my bones I-I-I got this feeling in my soul Go ahead and throw your stones \'Cause there\'s magic in my bones Playing with a stick of dynamite There was never gray in black and white There was never wrong \'til there was right (ooh, oh) Feeling like a boulder hurtling Seeing all the vultures circling Burning in the flames I\'m working in Turning in a bed that\'s darkening My patience is waning Is this entertaining? Our patience is waning Is this entertaining? I-I-I got this feeling, yeah, you know Where I\'m losing all control \'Cause there\'s magic in my bones (in my bones) I-I-I got this feeling in my soul Go ahead and throw your stones \'Cause there\'s magic in my bones \'Cause there\'s magic in my bones Look in the mirror of my mind Turning the pages of my life Walking the path so many paced a million times Drown out the voices in the air Leaving the ones that never cared Picking the pieces up and building to the sky My patience is waning Is this entertaining? My patience is waning Is this entertaining? I-I-I got this feeling, yeah, you know Where I\'m losing all control \'Cause there\'s magic in my bones (magic in my bones) I-I-I got this feeling in my soul (soul) Go ahead and throw your stones \'Cause there\'s magic in There goes my mind (I-I-I) Don\'t mind There goes my mind (there it goes, there it goes) There goes my mind (I-I-I) Don\'t mind (there it goes) There goes my mind \'Cause there\'s magic in my bones</string>
+    <string name="araw_at_buwan">Oo-oo Baby, baby, ikaw ang araw at buwan ko Babae, ikaw ang lahat Maraming magagandang mukha ang maaaring mag-aksaya ng oras ko Pero ikaw ang dream girl ko Pinapamumulaklak mo ang mga bulaklak Babae, ginagawa mong banggaan ang mga bituin At hindi ko alam kung anong ginawa ko para swertehin ako ng ganito Pero siguradong masarap sa pakiramdam Dahil binibigyan mo ako ng pagmamahal at pagmamahal Ibinibigay ko sa iyo ang lahat ng aking proteksyon At susubukan kong manatili sa tabi mo hanggang sa araw na ako ay mamatay At binigay mo sa akin ang lahat ng iyong pagmamahal At ibinibigay ko sa iyo ang lahat ng aking tiwala Alam kong hinding hindi mo ako ipagkakanulo o aalis sa tabi ko, naku Baby, baby, ikaw ang araw at buwan ko Babae, ikaw ang lahat Maraming magagandang mukha ang maaaring mag-aksaya ng oras ko Pero ikaw ang dream girl ko Pinapamumulaklak mo ang mga bulaklak (babae na pinamumulaklak mo ang mga bulaklak) Girl, you make the stars collide (hindi mo ba alam na you make the stars collide) At hindi ko alam kung anong ginawa ko para swertehin ako ng ganito Pero siguradong masarap sa pakiramdam Nakikita ko kasi ang mukha mo kapag natutulog ako Nagising ako na nagpapasalamat sa paghinga Ang hangin na dinadaanan mo Sinulatan kita ng oyayi Isang awit na kakantahin sa iyong unan matulin bilang isang ugoy sa isang wilow Ang pinakamatamis kong salita ay mga ibon lamang Sa iyong perpektong langit, naku Baby, baby, ikaw ang araw at buwan ko Babae, ikaw ang lahat Maraming magagandang mukha ang maaaring mag-aksaya ng oras ko Pero ikaw ang dream girl ko Pinapamumulaklak mo ang mga bulaklak (babae na pinamumulaklak mo ang mga bulaklak) Girl, you make the stars collide (hindi mo ba alam na you make the stars collide) At hindi ko alam kung anong ginawa ko para swertehin ako ng ganito Ngunit siguradong masarap ang pakiramdam (siguradong masarap sa pakiramdam) Dahil baby, baby, ikaw ang araw at buwan ko Babae, ikaw ang lahat Maraming magagandang mukha ang maaaring mag-aksaya ng oras ko Pero ikaw ang dream girl ko Pinapamumulaklak mo ang mga bulaklak (babae na pinamumulaklak mo ang mga bulaklak) Girl, you make the stars collide (hindi mo ba alam na you make the stars collide) At hindi ko alam kung anong ginawa ko para swertehin ako ng ganito Pero siguradong masarap ang pakiramdam, naku, naku ay naku Ay naku, naku, oo Ay naku, naku Baby, baby, akin ka</string>
+    <string name="username_logged">Username</string>
+    <string name="status_test">Status</string>
+    <string name="status_2">Status 2</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="qr_selection">QR Selection</string>
+    <string name="check_purchase_history">Check Purchase History</string>
+    <string name="logout">Logout</string>
+
+
+</resources>

@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bgbistro"
+    tools:context=".bistro_fragments.ProfileFragment">
+
+    <ScrollView
+        android:id="@+id/scroll_profile"
+        android:layout_width="356dp"
+        android:layout_height="601dp"
+        android:layout_marginTop="160dp"
+        android:fillViewport="true"
+        android:orientation="vertical"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.432"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/title_sign_in"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="22dp"
+                android:text="Sign Up"
+                android:textColor="@color/search"
+                android:textAlignment="center"
+                android:textSize="30sp"
+                android:layout_gravity="center"/>
+
+            <EditText
+                android:id="@+id/username_profile"
+                android:layout_width="311dp"
+                android:layout_height="59dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="40dp"
+                android:autofillHints=""
+                android:background="@drawable/search_design"
+                android:drawablePadding="10dp"
+                android:paddingStart="20dp"
+                android:ems="10"
+                android:hint="@string/username"
+                android:inputType="textPersonName"
+                android:padding="9dp"
+                android:textColor="@color/white"
+                android:textColorHint="@color/white"
+                android:textSize="17sp" />
+
+            <EditText
+                android:id="@+id/first_name_profile"
+                android:layout_width="311dp"
+                android:layout_height="59dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="20dp"
+                android:autofillHints=""
+                android:background="@drawable/search_design"
+                android:paddingStart="20dp"
+                android:drawablePadding="10dp"
+                android:ems="10"
+                android:hint="@string/first_name"
+                android:inputType="textPersonName"
+                android:padding="9dp"
+                android:textColor="@color/white"
+                android:textColorHint="@color/white"
+                android:textSize="17sp" />
+
+            <EditText
+                android:id="@+id/middle_name_profile"
+                android:layout_width="311dp"
+                android:layout_height="59dp"
+                android:layout_gravity="center"
+                android:paddingStart="20dp"
+                android:layout_marginTop="20dp"
+                android:autofillHints=""
+                android:background="@drawable/search_design"
+                android:drawablePadding="10dp"
+                android:ems="10"
+                android:hint="@string/middle_name"
+                android:inputType="textPersonName"
+                android:padding="9dp"
+                android:textColor="@color/white"
+                android:textColorHint="@color/white"
+                android:textSize="17sp" />
+
+            <EditText
+                android:id="@+id/last_name_profile"
+                android:layout_width="311dp"
+                android:layout_height="59dp"
+                android:paddingStart="20dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="20dp"
+                android:autofillHints=""
+                android:background="@drawable/search_design"
+                android:drawablePadding="10dp"
+                android:ems="10"
+                android:hint="@string/last_name"
+                android:inputType="textPersonName"
+                android:padding="9dp"
+                android:textColor="@color/white"
+                android:textColorHint="@color/white"
+                android:textSize="17sp" />
+
+            <EditText
+                android:id="@+id/password_profile"
+                android:layout_width="311dp"
+                android:layout_height="59dp"
+                android:layout_gravity="center"
+                android:paddingStart="20dp"
+                android:layout_marginTop="20dp"
+                android:autofillHints=""
+                android:background="@drawable/search_design"
+                android:drawablePadding="10dp"
+                android:ems="10"
+                android:hint="@string/password"
+                android:inputType="textPassword"
+                android:padding="9dp"
+                android:textColor="@color/white"
+                android:textColorHint="@color/white"
+                android:textSize="17sp" />
+
+            <EditText
+                android:id="@+id/verify_password_profile"
+                android:layout_width="311dp"
+                android:layout_height="59dp"
+                android:paddingStart="20dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="20dp"
+                android:autofillHints=""
+                android:background="@drawable/search_design"
+                android:drawablePadding="10dp"
+                android:ems="10"
+                android:hint="@string/verify_password"
+                android:inputType="textPassword"
+                android:padding="9dp"
+                android:textColor="@color/white"
+                android:textColorHint="@color/white"
+                android:textSize="17sp" />
+
+            <EditText
+                android:id="@+id/email_address_profile"
+                android:layout_width="311dp"
+                android:layout_height="59dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="20dp"
+                android:paddingStart="20dp"
+                android:autofillHints=""
+                android:background="@drawable/search_design"
+                android:drawablePadding="10dp"
+                android:ems="10"
+                android:hint="@string/email_address"
+                android:inputType="textEmailAddress"
+                android:padding="9dp"
+                android:textColor="@color/white"
+                android:textColorHint="@color/white"
+                android:textSize="17sp" />
+
+            <EditText
+                android:id="@+id/phone_number_profile"
+                android:layout_width="311dp"
+                android:layout_height="59dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="20dp"
+                android:autofillHints=""
+                android:background="@drawable/search_design"
+                android:paddingStart="20dp"
+                android:drawablePadding="10dp"
+                android:ems="10"
+                android:hint="@string/phone_number_required"
+                android:inputType="phone"
+                android:padding="9dp"
+                android:textColor="@color/white"
+                android:textColorHint="@color/white"
+                android:textSize="17sp" />
+
+            <Button
+                android:id="@+id/register_profile"
+                android:layout_width="311dp"
+                android:layout_height="59dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/account_btn"
+                android:padding="9dp"
+                android:text="@string/register"
+                android:textColor="@color/white" />
+
+            <TextView
+                android:id="@+id/clickable_text_profile"
+                android:layout_width="219dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="20dp"
+                android:layout_marginBottom="140dp"
+                android:text="Have an account? Login"
+                android:textAlignment="center"
+                android:textColor="@color/image_button" />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

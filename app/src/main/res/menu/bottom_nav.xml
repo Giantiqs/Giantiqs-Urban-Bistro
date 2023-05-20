@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/homeBotNav"
+        android:title="Home"
+        android:icon="@drawable/home_bot" />
+    <item android:id="@+id/storeBotNav"
+        android:title="Store"
+        android:icon="@drawable/store_bot"/>
+    <item android:id="@+id/rewardsBotNav"
+        android:title="Gifts"
+        android:icon="@drawable/gift_bot"/>
+    <item android:id="@+id/helpBotNav"
+        android:title="Help"
+        android:icon="@drawable/help_bot"/>
+    <item android:id="@+id/accountBotNav"
+        android:title="Account"
+        android:icon="@drawable/account_bot" />
+</menu>

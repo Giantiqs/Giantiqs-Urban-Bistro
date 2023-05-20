@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bgbistro"
+    tools:context=".bistro_fragments.HelpFragment">
+
+    <ScrollView
+        android:layout_width="356dp"
+        android:layout_height="601dp"
+        android:layout_marginTop="160dp"
+        android:fillViewport="true"
+        android:orientation="vertical"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.432"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/about_us"
+                android:layout_width="323dp"
+                android:layout_height="180dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/bigbutton"
+                android:padding="18dp"
+                android:textSize="13dp"
+                android:text="URBAN BISTRO WAS FOUNDED IN NOVEMBER 27, 2022 BY SR. URBAN GABBY J. MCLAUREN. URBAN BISTRO IS A CAFE WHERE YOU CAN ORDER THE PRODUCTS JUST BY USING THE URBAN BISTRO APP WHICH IS AVAILABLE AND CAN BE DOWNLOADED VIA GOOGLE PLAYSTORE. THE IOS VERSION IS STILL UNDERDEVELOPMENT."
+                android:textAlignment="center"
+                android:textColor="#B78F76"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/contactUs"
+                android:layout_width="311dp"
+                android:layout_height="100dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="40dp"
+                android:layout_marginBottom="20dp"
+                android:background="@drawable/buttoncloud"
+                android:padding="9dp"
+                android:text="Contact us"
+                android:textColor="#B78F76" />
+
+            <Button
+                android:id="@+id/faq"
+                android:layout_width="311dp"
+                android:layout_height="100dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="20dp"
+                android:layout_marginBottom="140dp"
+                android:background="@drawable/buttoncloud"
+                android:padding="9dp"
+                android:text="FAQS about our app"
+                android:textColor="#B78F76"  />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
